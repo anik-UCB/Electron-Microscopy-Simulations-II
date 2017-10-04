@@ -1,0 +1,2 @@
+# Electron-Microscopy-Simulations-II
+This program studies the behavior of electrons when an electron beam is scanned across the interface of two materials (one with high, other with low density). The example over here is with Au and Al. This program calculates the HAADF detector intensity, fraction of electrons absorbed in both the elements and the total scattering. This explains Atomic contrast across interfaces. This program has also been tested for multiple interfaces and with compounds like SiO2-W-SiO2
